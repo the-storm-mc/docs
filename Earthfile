@@ -1,7 +1,7 @@
 VERSION 0.6
 
 deps:
-  FROM python:3.11
+  FROM python:3.8
   RUN pip install pipenv
   COPY Pipfile* .
   RUN --secret=MKDOCS_GH_TOKEN=+secrets/sj/mkdocs_gh_token pipenv install

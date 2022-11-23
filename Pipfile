@@ -14,4 +14,4 @@ mkdocs-material = { git = 'git+https://${MKDOCS_GH_TOKEN}@github.com/squidfunk/m
 [dev-packages]
 
 [requires]
-python_version = "3.11"
+python_version = "3.8"
