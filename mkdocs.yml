@@ -1,0 +1,42 @@
+site_name: The Storm
+extra:
+  homepage: https://ts-mc.net
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - toc.follow
+    - toc.integrate
+    - navigation.top
+    - search
+    - search.suggest
+    - search.highlight
+    - social
+    - tags
+    - header.autohide
+
+
+  font:
+    text: Lato
+    code: Fira Mono
+  logo: assets/logo.png
+  palette:
+    - scheme: default
+      media: "(prefers-color-scheme: light)"
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: teal
+      accent: teal
+    - scheme: slate
+      media: "(prefers-color-scheme: dark)"
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: teal
+      accent: teal
