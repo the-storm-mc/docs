@@ -8,4 +8,9 @@ A snapshot of the world is taken at the end of each quarter of the year. These m
 
 ## Downloads
 
-This section will list downloads to the world's map. The first download will be published on March 1st,
+This section will list downloads to the world's map. The first download will be published on March 31st.
+
+| Snapshot Date       | Release Date     | Download Link |
+| ------------------- | ---------------- | ------------- |
+| December 31st, 2022 | March 31st, 2023 | -             |
+| March 31st, 2023    | June 30th, 2023  | -             |

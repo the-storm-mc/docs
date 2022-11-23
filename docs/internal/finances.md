@@ -9,6 +9,5 @@ The goal of this server is not to make a profit. Any profit is either reinvested
 | 11/19 | OVH      | $68.36 |
 | 11/22 | Logo     | $40.00 |
 | 11/22 | BorgBase | $24.00 |
-|       |          |        |
 
 Note: This will be replaced with something more robust in the future.
