@@ -6,7 +6,7 @@ The production Minecraft servers will deploy from `main` periodically. The beta 
 
 Here's how deployments function:
 
--   GitHub Actions builds the code and configuration for the server
--   The built artifacts are uploaded via `rsync` to the server
--   Docker containers are repulled and re-built if needed
--   Docker containers are restarted
+- GitHub Actions builds the code and configuration for the server
+- The built artifacts are uploaded via `rsync` to the server
+- Docker containers are repulled and re-built if needed
+- Docker containers are restarted

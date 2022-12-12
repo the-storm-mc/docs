@@ -1,12 +1,15 @@
 # Monitoring
 
+A public dashboard showing detailed [here](https://p.datadoghq.com/sb/a75dfe26-225b-11ed-b34a-da7ad0900002-db9d77ad26203770040b0c64f56cace3
+).
+
 The server is monitored with [Datadog](https://www.datadoghq.com/). Alarms exist to ensure the following:
 
--   TCP connections can be established to ts-mc.net:25565
--   The documentation site is accessible and the SSL certificate is valid
--   The main site is accessible and the SSL certificate is valid
--   The LiveMap is accessible and the SSL certificate is valid
--   TCP connections can be establish to ts-mc.net:22
+- TCP connections can be established to ts-mc.net:25565
+- The documentation site is accessible and the SSL certificate is valid
+- The main site is accessible and the SSL certificate is valid
+- The LiveMap is accessible and the SSL certificate is valid
+- TCP connections can be establish to ts-mc.net:22
 
 These alerts help to catch issues as fast as possible, so that time to resolution can be minimal.
 
