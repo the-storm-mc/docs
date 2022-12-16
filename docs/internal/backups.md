@@ -4,10 +4,10 @@ The server uses [borg](https://github.com/borgbackup/borg), [borgmatic](https://
 
 Alerts are setup to ensure that missing backups are detected. Backups are discarded periodically. We keep:
 
--   One backup for each day in the last three days
--   One backup for each week in the last four weeks
--   One backup for each month in the last twelve months
--   One backup for each year in the last two years
+- One backup for each day in the last three days
+- One backup for each week in the last four weeks
+- One backup for each month in the last twelve months
+- One backup for each year in the last two years
 
 <figure markdown>
   ![Screenshot of borgbase UI](/assets/images/borgbase.png){ width="600" }
