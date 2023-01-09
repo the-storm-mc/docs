@@ -4,12 +4,12 @@ The Minecraft servers and LiveMap are hosted on OVH. We use a `KS-GAME-1` server
 
 Specs:
 
--   CPU: Intel Core i7-4790K - 4c/8t - 4 GHz/4.4 GHz
--   Memory: 16 GB 1600 MHz
--   Storage: 1×240 GB SSD SATA
--   Network: 100 MiB/s symmetrical
--   OS: Debian 11 (Bullseye)
--   Location: Canada
+- CPU: AMD Ryzen 5 5600X - 6c/12t - 3.7 GHz/4.6 GHz
+- Memory: 32 GB ECC 2666 MHz
+- Storage: 2×500 GB SSD NVMe
+- Network: 250 MiB/s symmetrical
+- OS: Ubuntu 22.04 (Jammy)
+- Location: Oregon
 
 <figure markdown>
   ![Screenshot of the OVH UI](/assets/images/ovh.png){ width="550" }
